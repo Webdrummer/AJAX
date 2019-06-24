@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Alex Supertramp",
+        "email": "alex@supertramp.com"
+    },
+    {
+        "id": 2,
+        "name": "Marco Minnemann",
+        "email": "marco@minnemann.com" 
+    },
+    {
+        "id": 3,
+        "name": "Jojo Mayer",
+        "email": "jojo@mayer.com"
+    }
+]
